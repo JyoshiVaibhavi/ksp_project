@@ -1,0 +1,120 @@
+.pic{
+    block-size: 250px;
+    }
+body{
+    text-align:left ;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-bottom:3px solid black ;
+    padding: 15px;
+    font-family: 'Times New Roman';
+    background-color:antiquewhite;
+    font-family: Arial;
+}
+.h21{
+    color:brown; 
+    padding-top:-1500px ;
+    margin-top:-300px;
+
+
+
+}
+.mpc{
+    color:brown; 
+
+}
+.ssc{
+    color:brown; 
+
+
+}
+
+.h22{
+    color:brown;
+    padding-top:-1000px ;
+    margin-top:-1000px ;
+    padding-left:10px ;
+    font-size:25px ;
+}
+ .cert{ 
+    color:brown;
+ }
+ .ach{
+    color: brown;
+    margin-left:800px ;
+    margin-top:-100px ;
+    font-size:33px ;
+ }
+ #hindi{
+    margin-left:800px ;
+ }
+ #exam{
+    margin-left:800px ;
+
+ }
+
+h1{
+    color:black;
+
+    
+}
+.button1{
+    border: 1px solid black;
+    block-size:20px ;
+    
+}
+.button2{
+    border:1px solid black ;
+    block-size:20px ;
+}
+.button3{
+    border:1px solid black ;
+    block-size:20px ;
+
+}
+.button4{
+    border:1px solid black ;
+    block-size:20px ;
+
+
+}
+
+.button5{
+    border:1px solid black ;
+    block-size:20px ;
+
+
+}
+.ul1{
+   font-size:20px ; 
+}
+.ul2{
+    font-size:20px ; 
+
+}
+
+#div1{
+    padding-left:800px ;
+    font-size:x-large;
+    
+
+}
+#div2{
+    padding-left:800px ;
+    font-size:x-large;
+    
+
+}
+
+.h23{
+    color:brown;
+}
+.h24{
+    color:brown;
+}
+.h25{
+    color:brown;
+}
+
+
